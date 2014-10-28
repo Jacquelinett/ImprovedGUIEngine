@@ -1,0 +1,26 @@
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\JRPLib.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\JRPLib.pdb
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\obj\Debug\JRPLib.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\obj\Debug\JRPLib.pdb
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\csfml-audio-2.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\csfml-graphics-2.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\csfml-window-2.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\libsndfile-1.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\openal32.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\JRPLib\JRPLib\obj\Debug\JRPLib.csprojResolveAssemblyReference.cache
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\csfml-audio-2.dll
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\csfml-graphics-2.dll
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\csfml-window-2.dll
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\libsndfile-1.dll
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\openal32.dll
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\JRPLib.dll
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\JRPLib.pdb
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\obj\Debug\JRPLib.csprojResolveAssemblyReference.cache
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\obj\Debug\JRPLib.dll
+C:\Users\Jacqueline\Dropbox\Actually Project go here\JRPLib\JRPLib\obj\Debug\JRPLib.pdb

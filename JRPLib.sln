@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JRPLib", "JRPLib\JRPLib.csproj", "{4D49BFE5-4633-4521-B282-B1E9E1EC23F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JRPEditorEngine", "JRPEditorEngine\JRPEditorEngine.csproj", "{9907CFAA-09C0-4363-BCC2-3410EB536A56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D49BFE5-4633-4521-B282-B1E9E1EC23F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D49BFE5-4633-4521-B282-B1E9E1EC23F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D49BFE5-4633-4521-B282-B1E9E1EC23F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D49BFE5-4633-4521-B282-B1E9E1EC23F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9907CFAA-09C0-4363-BCC2-3410EB536A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9907CFAA-09C0-4363-BCC2-3410EB536A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9907CFAA-09C0-4363-BCC2-3410EB536A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9907CFAA-09C0-4363-BCC2-3410EB536A56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
